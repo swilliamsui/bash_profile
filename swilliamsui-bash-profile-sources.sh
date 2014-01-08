@@ -1,3 +1,5 @@
+set -o vi
+
 # extend profile
 source ~/.profile_dir/path.sh
 source ~/.profile_dir/aliases.sh
