@@ -2,5 +2,8 @@ export dProfile=~/.profile_dir
 export dVim=~/.vim/custom
 
 # code
-export dGusto=~/source/gusto/web
-export dTutorial=~/source/gusto/tutorial/app/scripts
+export dSrc=~/src
+export dMcNavigation=~/src/et/mc-navigation
+
+# ENV VARIABLES
+export NODE_ENV=dev

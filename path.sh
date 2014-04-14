@@ -1,1 +1,1 @@
-PATH=$PATH:/Users/swilliams/source/gusto/ruby-client/gusto
+PATH=$PATH:/Users/swilliams/bin
