@@ -1,5 +1,8 @@
 set -o vi
 
+# verify bash history before executing
+shopt -s histverify
+
 # extend profile
 source ~/.profile_dir/path.sh
 source ~/.profile_dir/aliases.sh
