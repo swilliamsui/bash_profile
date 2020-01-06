@@ -1,8 +1,8 @@
-alias eProfile='vim ~/.profile'
+alias eProfile='vim ~/.bash_profile'
 alias eProfileMine='vim ~/.profile_dir/swilliamsui-bash-profile-sources.sh'
 alias eProfileBookmark='vim ~/.profile_dir/bookmarks.sh'
 alias eProfileAlias='vim ~/.profile_dir/aliases.sh'
-alias rProfile='source ~/.profile'
+alias rProfile='source ~/.bash_profile'
 
 # yeoman marionette
 alias yom='yo marionette'
@@ -11,8 +11,8 @@ alias yom='yo marionette'
 alias startMongo='mongod -f ~/etc/mongodb.conf'
 
 # mac specific
-alias vim=/Applications/MacVim.app/Contents/MacOS/Vim
-alias MacVim=/Applications/MacVim.app/Contents/MacOS/MacVim
+# alias vim=/Applications/MacVim.app/Contents/MacOS/Vim
+# alias MacVim=/Applications/MacVim.app/Contents/MacOS/MacVim
 
 alias sshFPNA='ssh fletcher@fletcherplace.org -p18765'
 

@@ -1,7 +1,5 @@
 source ~/.profile_dir/swilliamsui-bash-profile-sources.sh
 
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
-
 # added by travis gem
 [ -f /Users/swilliams/.travis/travis.sh ] && source /Users/swilliams/.travis/travis.sh
 
